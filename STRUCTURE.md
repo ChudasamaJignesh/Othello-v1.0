@@ -1,62 +1,58 @@
 ## FILE STRUCTURE OF PROJECT <br />
 
-
-C:\Users\Jignesh\Documents\NetBeansProjects\Othello1.0>tree /F
-Folder PATH listing
-Volume serial number is 000000FA AA24:668C
-C:.
-│   build.xml
-│   manifest.mf
-│
-├───dist
-│       Othello1.0.jar
-│       README.TXT
-│
-├───images
-│       black_disk.png
-│       white_disk.png
-│
-├───nbproject
-│   │   build-impl.xml
-│   │   genfiles.properties
-│   │   project.properties
-│   │   project.xml
-│   │
-│   └───private
-│           config.properties
-│           private.properties
-│           private.xml
-│
-├───src
-│   │   tests.rar
-│   │
-│   ├───listeners
-│   │       ForfeitListener.java
-│   │       NewGameListener.java
-│   │       PlaceDiskListener.java
-│   │       RedoListener.java
-│   │       UndoListener.java
-│   │
-│   ├───main_components
-│   │       Board.java
-│   │       Button.java
-│   │       Color.java
-│   │       Command.java
-│   │       CommandManager.java
-│   │       Controller.java
-│   │       Disk.java
-│   │       GameLoop.java
-│   │       Player.java
-│   │       View.java
-│   │
-│   └───strategies
-│           AlphaBetaStrategy.java
-│           BoardComparatorWhite.java
-│           Difficulty.java
-│           MinimaxStrategy.java
-│           RandomStrategy.java
-│           ScoreComparatorWhite.java
-│           Strategy.java
-│           Utility.java
-│
-└───test
+C:.<br />
+│   build.xml<br />
+│   manifest.mf<br />
+│<br />
+├───dist<br />
+│       Othello1.0.jar<br />
+│       README.TXT<br />
+│<br />
+├───images<br />
+│       black_disk.png<br />
+│       white_disk.png<br />
+│<br />
+├───nbproject<br />
+│   │   build-impl.xml<br />
+│   │   genfiles.properties<br />
+│   │   project.properties<br />
+│   │   project.xml<br />
+│   │<br />
+│   └───private<br />
+│           config.properties<br />
+│           private.properties<br />
+│           private.xml<br />
+│<br />
+├───src<br />
+│   │   tests.rar<br />
+│   │<br />
+│   ├───listeners<br />
+│   │       ForfeitListener.java<br />
+│   │       NewGameListener.java<br />
+│   │       PlaceDiskListener.java<br />
+│   │       RedoListener.java<br />
+│   │       UndoListener.java<br />
+│   │<br />
+│   ├───main_components<br />
+│   │       Board.java<br />
+│   │       Button.java<br />
+│   │       Color.java<br />
+│   │       Command.java<br />
+│   │       CommandManager.java<br />
+│   │       Controller.java<br />
+│   │       Disk.java<br />
+│   │       GameLoop.java<br />
+│   │       Player.java<br />
+│   │       View.java<br />
+│   │<br />
+│   └───strategies<br />
+│           AlphaBetaStrategy.java<br />
+│           BoardComparatorWhite.java<br />
+│           Difficulty.java<br />
+│           MinimaxStrategy.java<br />
+│           RandomStrategy.java<br />
+│           ScoreComparatorWhite.java<br />
+│           Strategy.java<br />
+│           Utility.java<br />
+│<br />
+└───test<br />
