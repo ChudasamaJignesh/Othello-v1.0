@@ -64,7 +64,7 @@ public class View {
 		green = new java.awt.Color(0, 100, 0);
 		lightGreen = new java.awt.Color(0, 200, 0);
 
-		frame = new JFrame("Othello 1.0 - by Jignesh ");
+		frame = new JFrame("Othello v1.0 - by Jignesh ");
 		blackIcon = new ImageIcon("images/black_disk.png");
 		whiteIcon = new ImageIcon("images/white_disk.png");
 		
