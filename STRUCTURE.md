@@ -4,10 +4,6 @@ C:.<br />
 │   build.xml<br />
 │   manifest.mf<br />
 │<br />
-├───dist<br />
-│       Othello1.0.jar<br />
-│       README.TXT<br />
-│<br />
 ├───images<br />
 │       black_disk.png<br />
 │       white_disk.png<br />
