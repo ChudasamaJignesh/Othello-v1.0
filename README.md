@@ -1,4 +1,4 @@
-# Othello1.0
+# Othello-v1.0
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![label](https://img.shields.io/github/issues-raw/badges/shields/website.svg)]()
 [![PyPI](https://img.shields.io/pypi/status/Django.svg)]()  
